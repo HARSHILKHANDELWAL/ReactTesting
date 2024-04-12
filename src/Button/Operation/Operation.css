@@ -1,0 +1,7 @@
+.operaSection{
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 1px;
+  }

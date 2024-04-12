@@ -1,0 +1,53 @@
+.container{
+    height: 390px;
+    width: 260px;
+    margin: 0 auto;
+    /* min-height: 400px; */
+    box-shadow: 0 8px 50px -7px black;
+    background: #3A4655;
+    /* position: relative; */
+
+}
+.funBtn{
+    display: flex;
+
+}
+.display{
+/* width: 0px */
+/* margin-right: 50; */
+width: 200px;
+gap: 5px 5px 5px 0px;
+
+}
+.redo{
+    height: 20px;
+/* position: relative; */
+top: 370px; 
+left: 510px; 
+position: absolute;
+}
+.calButton{
+/* background-color: rgb(56, 76, 37); */
+height: 500px;
+width: 250px;
+position: relative;
+}
+
+.numButton{
+    position: absolute;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+height: 270px;
+width: 230px;
+}
+.operationBtn{
+display: flex;
+flex-direction: column;
+float: right;
+width: 50px;
+gap: 3.6px;
+
+margin-top: 2px;
+
+}

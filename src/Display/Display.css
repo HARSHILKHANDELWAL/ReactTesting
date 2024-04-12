@@ -1,0 +1,11 @@
+.calc-screen{
+  padding: 0.1rem;
+}#calScreen{
+  text-align: right;
+  width: 250px;
+  font-size: 2rem;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  height: 50px;
+
+}
